@@ -1,0 +1,63 @@
+{
+    "data": {
+        "lookups": [
+            "keywords",
+            "free-text"
+        ],
+        "name": "languageName",
+        "lang": "en",
+        "id": "languageName",
+        "doc": "User-defined entity",
+        "builtin": false,
+        "values": [
+            {
+                "value": "react",
+                "expressions": [
+                    "react"
+                ]
+            },
+            {
+                "value": "sql",
+                "expressions": [
+                    "sql"
+                ]
+            },
+            {
+                "value": "angular",
+                "expressions": [
+                    "angular"
+                ]
+            },
+            {
+                "value": "php",
+                "expressions": [
+                    "php"
+                ]
+            },
+            {
+                "value": "javascript",
+                "expressions": [
+                    "javascript"
+                ]
+            },
+            {
+                "value": "jquery",
+                "expressions": [
+                    "jquery"
+                ]
+            },
+            {
+                "value": "python",
+                "expressions": [
+                    "python"
+                ]
+            },
+            {
+                "value": "ruby",
+                "expressions": [
+                    "ruby"
+                ]
+            }
+        ]
+    }
+}
